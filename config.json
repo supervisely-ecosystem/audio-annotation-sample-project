@@ -1,0 +1,10 @@
+{
+    "name": "Audio Annotation Sample Project",
+    "description": "Practice project with unannotated audio recordings. Perfect for trying audio segment and recording tagging.",
+    "type": "project",
+    "categories": [
+        "import",
+        "audio",
+        "project"
+    ]
+}
