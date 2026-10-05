@@ -19,7 +19,7 @@
 
 ## Overview
 
-This is a practice project with unannotated audio recordings in Supervisely format. It is perfect for:
+This is a practice project with audio recordings in Supervisely format. It is perfect for:
 
 - **Learning audio annotation** — mark time segments and tag whole recordings
 - **Trying the audio project type** — see how audio data, annotations and project meta are organised in Supervisely
