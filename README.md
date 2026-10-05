@@ -1,6 +1,6 @@
 <div align="center" markdown>
 
-<img src="https://github.com/supervisely-ecosystem/audio-annotation-sample-project/raw/master/media/banner.png" /> <br>
+<img src="https://github.com/supervisely-ecosystem/audio-annotation-sample-project/raw/master/media/banner.png" width="400" /> <br>
 
 # Audio Annotation Sample Project
 
