@@ -5,6 +5,7 @@ This project uses Supervisely JSON format for audio projects.
 - `meta.json` — project meta: tag definitions and project settings, `"projectType": "audio"`
 - `ds0/audio/` — the recordings (`.wav`, `.flac`, `.mp3`, `.ogg`, `.m4a`)
 - `ds0/ann/` — one annotation per recording, named `<recording>.json`: `sampleCount`, `sampleRate`, `channels`, `description` and `tags` (time segments and whole-recording tags)
+- `ds0/audio_info/` — item info exported with each recording (optional; not needed to import)
 
 ## Useful links
 

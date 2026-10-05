@@ -1,0 +1,30 @@
+{
+    "description": "",
+    "sampleCount": 137734,
+    "sampleRate": 16000,
+    "channels": 1,
+    "tags": [
+        {
+            "name": "speaker_!",
+            "frameRange": [
+                9760,
+                52005
+            ],
+            "channel": null,
+            "tagId": 54072,
+            "id": 2159678,
+            "labelerLogin": "kirasolda"
+        },
+        {
+            "name": "speaker_2",
+            "frameRange": [
+                75600,
+                127685
+            ],
+            "channel": null,
+            "tagId": 54073,
+            "id": 2159679,
+            "labelerLogin": "kirasolda"
+        }
+    ]
+}

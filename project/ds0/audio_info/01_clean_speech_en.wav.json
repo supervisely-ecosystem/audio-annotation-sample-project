@@ -1,0 +1,22 @@
+{
+    "id": 7589094,
+    "name": "01_clean_speech_en.wav",
+    "hash": "VO5c6CPxk+t4ma7U0F+mZ1s9oEADUtm3WxynIrRhV6U=",
+    "link": null,
+    "dataset_id": 47453,
+    "project_id": 8944,
+    "workspace_id": 79,
+    "created_at": "2026-10-02T11:41:39.585Z",
+    "updated_at": "2026-10-02T11:46:29.272Z",
+    "created_by_id": 43,
+    "meta": {},
+    "file_meta": {
+        "mime": "audio/vnd.wave",
+        "size": 199162
+    },
+    "size": 199162,
+    "objects_count": null,
+    "path_original": "/supervisely-dev/teams_storage/a/e/mf/pxa1cwc4sjqlzcctyrewvmna4ghatfdl2mz0yffjhshmhfo7zkapgyirhrbfz1znadyynl71vu3cjm3mxadu54gpgvmatatraatmpsihoqieyzyb0mgssjmtuldx.wav",
+    "full_storage_url": "https://dev.internal.supervisely.com/supervisely-dev/teams_storage/a/e/mf/pxa1cwc4sjqlzcctyrewvmna4ghatfdl2mz0yffjhshmhfo7zkapgyirhrbfz1znadyynl71vu3cjm3mxadu54gpgvmatatraatmpsihoqieyzyb0mgssjmtuldx.wav",
+    "tags": []
+}

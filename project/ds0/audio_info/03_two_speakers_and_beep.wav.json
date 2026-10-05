@@ -1,0 +1,53 @@
+{
+    "id": 7589096,
+    "name": "03_two_speakers_and_beep.wav",
+    "hash": "Qptd06U9NZ2dvDujnYRjcfglSJyi5cRvDSqDeX9jbrs=",
+    "link": null,
+    "dataset_id": 47453,
+    "project_id": 8944,
+    "workspace_id": 79,
+    "created_at": "2026-10-02T13:03:47.478Z",
+    "updated_at": "2026-10-02T14:07:28.008Z",
+    "created_by_id": 43,
+    "meta": {},
+    "file_meta": {
+        "mime": "audio/vnd.wave",
+        "size": 275546
+    },
+    "size": 275546,
+    "objects_count": null,
+    "path_original": "/supervisely-dev/teams_storage/i/5/tr/cvgrkzmloyfspiuecpvbljvk3sh0rnylgbxesk2dau40jfanmekk0mykriafy1zkoanpwoqb1zxv5x1uvmsqnele6lupftlpffahnve3ooxjgqx85tyrf7krlxd9.wav",
+    "full_storage_url": "https://dev.internal.supervisely.com/supervisely-dev/teams_storage/i/5/tr/cvgrkzmloyfspiuecpvbljvk3sh0rnylgbxesk2dau40jfanmekk0mykriafy1zkoanpwoqb1zxv5x1uvmsqnele6lupftlpffahnve3ooxjgqx85tyrf7krlxd9.wav",
+    "tags": [
+        {
+            "entityId": 7589096,
+            "tagId": 54072,
+            "id": 2159678,
+            "meta": {
+                "channel": null
+            },
+            "frameRange": [
+                9760,
+                52005
+            ],
+            "labelerLogin": "kirasolda",
+            "createdAt": "2026-10-02T13:36:56.452Z",
+            "updatedAt": "2026-10-02T14:07:28.005Z"
+        },
+        {
+            "entityId": 7589096,
+            "tagId": 54073,
+            "id": 2159679,
+            "meta": {
+                "channel": null
+            },
+            "frameRange": [
+                75600,
+                127685
+            ],
+            "labelerLogin": "kirasolda",
+            "createdAt": "2026-10-02T13:37:03.134Z",
+            "updatedAt": "2026-10-02T13:54:56.820Z"
+        }
+    ]
+}

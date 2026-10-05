@@ -1,6 +1,37 @@
 {
     "classes": [],
-    "tags": [],
+    "tags": [
+        {
+            "name": "speaker_!",
+            "value_type": "none",
+            "color": "#FF0000",
+            "id": 54072,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": [],
+            "target_type": "all"
+        },
+        {
+            "name": "beep",
+            "value_type": "none",
+            "color": "#FF0000",
+            "id": 54074,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": [],
+            "target_type": "all"
+        },
+        {
+            "name": "speaker_2",
+            "value_type": "none",
+            "color": "#FF0000",
+            "id": 54073,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": [],
+            "target_type": "all"
+        }
+    ],
     "projectType": "audio",
     "projectSettings": {
         "multiView": {
@@ -9,6 +40,17 @@
             "tagId": null,
             "isSynced": false
         },
-        "labelingInterface": "default"
+        "labelingInterface": "default",
+        "spectrogram": {
+            "maxDb": 0,
+            "minDb": -100,
+            "scale": "linear",
+            "window": "hann",
+            "fftSize": 2048,
+            "colormap": "magma",
+            "melBands": 128,
+            "hopLength": 512,
+            "interpolation": "sharp"
+        }
     }
 }

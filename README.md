@@ -1,6 +1,6 @@
 <div align="center" markdown>
 
-<!-- TODO: banner -->
+<img src="https://github.com/supervisely-ecosystem/audio-annotation-sample-project/raw/master/media/banner.png" /> <br>
 
 # Audio Annotation Sample Project
 
@@ -23,8 +23,6 @@ This is a practice project with audio recordings in Supervisely format. It is pe
 
 - **Learning audio annotation** — mark time segments and tag whole recordings
 - **Trying the audio project type** — see how audio data, annotations and project meta are organised in Supervisely
-
-<!-- TODO: replace the placeholder recordings in project/ with the real sample data and describe it here -->
 
 ## How to Use This Project
 

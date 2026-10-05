@@ -6,5 +6,7 @@
         "import",
         "audio",
         "project"
-    ]
+    ],
+    "icon": "https://github.com/supervisely-ecosystem/audio-annotation-sample-project/raw/master/media/icon.png",
+    "icon_cover": true
 }
