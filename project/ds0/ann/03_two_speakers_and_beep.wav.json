@@ -5,14 +5,22 @@
     "channels": 1,
     "tags": [
         {
-            "name": "speaker_!",
+            "name": "audio_quality",
+            "frameRange": null,
+            "value": "usable",
+            "tagId": 61617,
+            "id": 2166806,
+            "labelerLogin": "kirasolda"
+        },
+        {
+            "name": "speaker_1",
             "frameRange": [
                 9760,
                 52005
             ],
             "channel": null,
-            "tagId": 54072,
-            "id": 2159678,
+            "tagId": 54113,
+            "id": 2159842,
             "labelerLogin": "kirasolda"
         },
         {
@@ -22,8 +30,19 @@
                 127685
             ],
             "channel": null,
-            "tagId": 54073,
-            "id": 2159679,
+            "tagId": 54115,
+            "id": 2159843,
+            "labelerLogin": "kirasolda"
+        },
+        {
+            "name": "beep",
+            "frameRange": [
+                59488,
+                65762
+            ],
+            "channel": null,
+            "tagId": 54114,
+            "id": 2166805,
             "labelerLogin": "kirasolda"
         }
     ]

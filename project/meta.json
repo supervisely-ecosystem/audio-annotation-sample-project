@@ -2,20 +2,10 @@
     "classes": [],
     "tags": [
         {
-            "name": "speaker_!",
-            "value_type": "none",
-            "color": "#FF0000",
-            "id": 54072,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": [],
-            "target_type": "all"
-        },
-        {
             "name": "beep",
             "value_type": "none",
             "color": "#FF0000",
-            "id": 54074,
+            "id": 54114,
             "hotkey": "",
             "applicable_type": "all",
             "classes": [],
@@ -25,9 +15,33 @@
             "name": "speaker_2",
             "value_type": "none",
             "color": "#FF0000",
-            "id": 54073,
+            "id": 54115,
             "hotkey": "",
             "applicable_type": "all",
+            "classes": [],
+            "target_type": "all"
+        },
+        {
+            "name": "speaker_1",
+            "value_type": "none",
+            "color": "#FF0000",
+            "id": 54113,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": [],
+            "target_type": "all"
+        },
+        {
+            "name": "audio_quality",
+            "value_type": "oneof_string",
+            "color": "#FF2D00",
+            "values": [
+                "usable",
+                "noisy"
+            ],
+            "id": 61617,
+            "hotkey": "",
+            "applicable_type": "imagesOnly",
             "classes": [],
             "target_type": "all"
         }
