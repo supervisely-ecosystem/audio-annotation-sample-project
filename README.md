@@ -35,6 +35,6 @@ You can download this sample project by clicking the **Get project** button or u
 
 ## Download
 
-Download this practice project in Supervisely format: [Download ZIP archive](https://github.com/supervisely-ecosystem/audio-annotation-sample-project/releases/download/v1.0.0/project.zip)
+Download this practice project in Supervisely format: [Download ZIP archive](https://github.com/supervisely-ecosystem/audio-annotation-sample-project/releases/latest/download/project.zip)
 
 After downloading, import the project to your Supervisely workspace and start practicing!
