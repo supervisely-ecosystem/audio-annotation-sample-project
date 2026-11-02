@@ -21,8 +21,8 @@
 
 This is a practice project with audio recordings in Supervisely format. It contains both annotated and unannotated audio:
 
-- **Annotated** — `03_two_speakers_and_beep.wav` has two tagged time segments (`speaker_!` and `speaker_2`), so you can see how finished audio annotations look
-- **Unannotated** — `01_clean_speech_en.wav` and `02_speech_with_noise.wav` have no annotations yet, so you can label them yourself using the project's tags (`speaker_!`, `speaker_2`, `beep`)
+- **Annotated** — `03_two_speakers_and_beep.wav` has three tagged time segments (`speaker_1`, `speaker_2`, `beep`), so you can see how finished audio annotations look
+- **Unannotated** — `01_clean_speech_en.wav` and `02_speech_with_noise.wav` have no annotations yet, so you can label them yourself using the project's tags (`speaker_1`, `speaker_2`, `beep`)
 
 It is perfect for:
 
